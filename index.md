@@ -1,4 +1,4 @@
-# StitchHasAGlitch
+# Aloha
 
 Welcome to the site of StitchHasAGlitch.  
   
